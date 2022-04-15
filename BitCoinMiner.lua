@@ -1,3 +1,153 @@
+-- [[               discord.gg/scripts                      ]] --
+-- [[                     discord.gg/scripts                ]] --
+-- [[                 discord.gg/scripts                    ]] --
+-- [[                      discord.gg/scripts               ]] --
+-- [[                discord.gg/scripts                     ]] --
+-- [[                   Made By zayy.#7422                  ]] --
+-- [[ If u deobf ur a skidder and can't make ur own scripts ]] --
+-- [[               discord.gg/scripts                      ]] --
+-- [[                     discord.gg/scripts                ]] --
+-- [[                 discord.gg/scripts                    ]] --
+-- [[                      discord.gg/scripts               ]] --
+-- [[                discord.gg/scripts                     ]] --
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 _, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
 
